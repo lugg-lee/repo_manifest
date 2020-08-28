@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com/lugg-lee" review="https://github.com/lugg-lee" />
+    <default remote="origin"  revision="master"/>
+
+    <project name="lib_module" path="lib_module" />
+    <project name="app_module" path="app_module" />
+    
+</manifest>
