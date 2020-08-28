@@ -3,6 +3,7 @@
     <remote name="origin" fetch="ssh://git@github.com/lugg-lee" review="https://github.com/lugg-lee" />
     <default remote="origin"  revision="master"/>
 
+    <project name="repo_demo" path="repo_demo" />
     <project name="lib_module" path="lib_module" />
     <project name="app_module" path="app_module" />
     
